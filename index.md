@@ -5,8 +5,13 @@ tagline: A Showcase of Open Tools for Data-Driven Ecology
 description: A list of the participants in an Ingite series at the 101st Ecological Society of America meeting
 ---
 
+# #hackingeco
+
 **Wednesday, August 10, 2016: 1:30 PM-3:00 PM**
 **316, Ft Lauderdale Convention Center**
+
+In this Ignite series, ecologists will share their enthusiasm for the tools they use and create to do research faster, more effectively, and in a more open way. Speakers will give quick introductions to a favourite tool that they use and/or have created. 
+
 
 #### IGN 5-1  DataONE Search: Discovering online data
 _William Michener, University of New Mexico_
