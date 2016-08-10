@@ -6,10 +6,10 @@ description: A list of the participants in an Ingite series at the 101st Ecologi
 ---
 
 
-## IGN 5-1  DataONE Search: Discovering online data
+#### IGN 5-1  DataONE Search: Discovering online data
 _William Michener, University of New Mexico_
 
-## IGN 5-2  Open-source Hardware for Ecologists: Using the Arduino and Raspberry Pi platforms for logging ecological data
+### IGN 5-2  Open-source Hardware for Ecologists: Using the Arduino and Raspberry Pi platforms for logging ecological data
 _Naupaka Zimmerman, University of Arizona_
 
 #### IGN 5-3  I don't do big data, you don't do big data, none of us do big data. And that's fine
