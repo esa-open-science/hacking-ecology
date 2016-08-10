@@ -9,6 +9,7 @@ description: A list of the participants in an Ingite series at the 101st Ecologi
 
 # [bit.ly/hackingeco](bit.ly/hackingeco)
 
+# Open Science Section Business Meeting Hilton Marina Altlantic Ballroom III-IV
 
 **Wednesday, August 10, 2016: 1:30 PM-3:00 PM**
 **316, Ft Lauderdale Convention Center**
