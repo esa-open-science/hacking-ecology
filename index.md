@@ -45,6 +45,8 @@ _Christie A. Bahlai, Mozilla Science Lab_
 
 >Ecology needs to be open because the science we do matters to people. Yet, there are two big problems hindering open ecology which can be summarized as: 1) a lack of trust among established scientists for the open science process; and 2) a lack of people with the skills needed to make open science commonplace. I have created a course that addresses both problems, and I taught it at Michigan State University this spring. Since all the materials are available under CC-BY, you should probably teach it at your institution, too. I’ll tell you how. 
 
+<iframe src="https://widgets.figshare.com/articles/3569316/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
+
 #### IGN 5-6  There’s a world of lonely data, waiting for you
 _Leah A. Wasser, NEON, Inc._
 
@@ -61,3 +63,9 @@ _Carl Boettiger, UC Berkeley_
 >I will introduce how ecologists can use the popular new container software, Docker, to help make their computational work more reproducible, to facilitate collaboration on complex computational analyses, and to seamlessly move their analyses between local and cloud computing to take advantage of scale.  All though applicable to most software, examples will focus on the R and RStudio environment as being most relevant to most ecologists. 
 
 #### IGN 5-  Discussion (until session ends)
+
+## Resources
+
+* [The Tao of Open Science](http://onlinelibrary.wiley.com/doi/10.1890/ES14-00402.1/abstract)
+* [Mozilla Study Groups](https://mozillascience.github.io/studyGroupHandbook/)
+* [Make magazine how-tos](http://makezine.com/category/technology/arduino/)
