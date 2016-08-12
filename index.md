@@ -44,9 +44,14 @@ _Simon Goring, University of Wisconsin-Madison_
 
 
 #### IGN 5-5  The open science and reproducible research course
-_Christie A. Bahlai, Mozilla Science Lab_
+_[Christie A. Bahlai, Mozilla Science Lab](https://sites.google.com/site/cbahlai/)_
 
 >Ecology needs to be open because the science we do matters to people. Yet, there are two big problems hindering open ecology which can be summarized as: 1) a lack of trust among established scientists for the open science process; and 2) a lack of people with the skills needed to make open science commonplace. I have created a course that addresses both problems, and I taught it at Michigan State University this spring. Since all the materials are available under CC-BY, you should probably teach it at your institution, too. I’ll tell you how. 
+
+* [Course website](https://cbahlai.github.io/rqm-template/)
+* [Course notes on Github](https://github.com/cbahlai/OSRR_course)
+* [Course blog](https://osrrcourse.wordpress.com/)
+* [Course blog](https://www.youtube.com/channel/UCIRNOGbri3WwRW17YT0wIwg)
 
 <iframe src="https://widgets.figshare.com/articles/3569316/embed?show_title=1" width="568" height="426" frameborder="0"></iframe>
 
