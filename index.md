@@ -30,6 +30,8 @@ _Naupaka Zimmerman, University of Arizona_
 
 >While open-source software may get much of the attention these days, the past decade has also seen the emergence and popularization of numerous open-source hardware platforms: specifically, micro-controller boards whose design is made freely available and modification by others is encouraged. This Ignite talk will highlight two of the most popular open hardware projects--the Arduino and Raspberry Pi platforms. The talk will also showcase an example of how these low-cost devices can be used in concert with cheaply available environmental sensors to log and upload environmental monitoring data for ecological research projects.
 
+<iframe src="https://widgets.figshare.com/articles/3580713/embed?show_title=1" width="568" height="716" frameborder="0"></iframe>
+
 #### IGN 5-3  I don't do big data, you don't do big data, none of us do big data. And that's fine
 _Timothée Poisot, Université de Montréal_
 
